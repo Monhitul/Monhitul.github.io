@@ -471,7 +471,6 @@ pre code::after {font-size: 1rem;color: #BFBFBF;position: absolute;top: 5px;righ
 .page-navigator a:hover{
   color: #eb5055;
 }
-/*卡片
-.item-meta-cat a:hover{
+.post-list-item a:hover{
   color: #eb5055;
-}*/
+}

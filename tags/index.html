@@ -30,11 +30,11 @@ layout: default_foot
 					<div class="post-list-item-container">
 						<div class="item-label">
 							<div class="item-title" >
-								<a href="{{ site.url }}{{ post.url }}" data-hover="{{ post.title }}">{{ post.title }}</a>
+								<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 							</div>
 							<div class="item-meta clearfix">
 								<div class="item-meta-date">
-								<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.date | date: "%F %H:%M:%S "}}">	{{ post.date | date: "%F %H:%M:%S "}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.category }}">{{ post.category }}</a>   
+								<a href="/archives#{{ post.date | date: "%Y"}}">{{ post.date | date: "%F"}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/archives#{{ post.date | date: "%Y"}}">{{ post.category }}</a>   
 								</div>
 							</div>
 						</div>
