@@ -1,6 +1,6 @@
 ---
 layout: blog
-book: false
+project: false
 istop: true
 background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 category: Jsp&Servlet
