@@ -22,25 +22,25 @@ redirect_from:
 
 实现了用户登录，查看所有学生，添加新的学生，删除已有学生，修改已有学生资料。
 
-<img src="/style/images/passage/students_manager/loginJSP.png">
+<img src="/style/images/passage/students_manager/loginJSP.PNG">
 <hr>
-<img src="/style/images/passage/students_manager/mainJSP.png">
+<img src="/style/images/passage/students_manager/mainJSP.PNG">
 <hr>
-<img src="/style/images/passage/students_manager/addJSP.png">
+<img src="/style/images/passage/students_manager/addJSP.PNG">
 <hr>
-<img src="/style/images/passage/students_manager/changeJSP.png">
+<img src="/style/images/passage/students_manager/changeJSP.PNG">
 
 目录为：
 
 <span>
-	<img style="width: 300px" src="/style/images/passage/students_manager/codetree1.png">
-	<img style="width: 300px" src="/style/images/passage/students_manager/codetree2.png">
+	<img style="width: 300px" src="/style/images/passage/students_manager/codetree1.PNG">
+	<img style="width: 300px" src="/style/images/passage/students_manager/codetree2.PNG">
 </span>
 
 MySQL数据库为：
 
-<img src="/style/images/passage/students_manager/database.png">
+<img src="/style/images/passage/students_manager/database.PNG">
 
 # 代码地址
 
-<a href="https://github.com/Monhitul/Students_manager">......</a>
+<a href="https://github.com/Monhitul/Students_manager">........</a>
