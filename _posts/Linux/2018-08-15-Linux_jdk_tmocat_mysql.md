@@ -4,7 +4,7 @@ project: false
 istop: true
 background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 category: Linux
-title: Linux环境下JDK、Tomcat和MySQL的安装和配置
+title: Linux环境下JDK、Tomcat和MySQL的安装与配置
 tags:
 - Linux
 - JDK
