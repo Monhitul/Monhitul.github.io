@@ -2,7 +2,7 @@
 layout: blog
 project: false
 istop: true
-background-image: http://monhitul.cn/blogimage/2018/天台1.jpg
+background-image: http://monhitul.cn:8080/blogimages/天台1.jpg
 category: Mybatis
 title: Mybatis的核心组件
 tags:

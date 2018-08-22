@@ -2,7 +2,7 @@
 layout: blog
 project: false
 istop: true
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-8-1/24280498.jpg
+background-image: http://monhitul.cn:8080/blogimages/超凡1.jpg
 category: Struts2
 title: Struts2的开发过程
 tags:
