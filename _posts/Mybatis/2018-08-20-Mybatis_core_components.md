@@ -2,7 +2,7 @@
 layout: blog
 project: false
 istop: true
-background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
+background-image: http://monhitul.cn/blogimage/2018/天台1.jpg
 category: Mybatis
 title: Mybatis的核心组件
 tags:
@@ -177,10 +177,13 @@ public interface RoleDao{
   //其他就省略啦
 }
 ```
+
 大家是否还记得前面使用XML创建SqlSessionFactory的时候，配置文件中有这样一段：
+
 ```
 <mapper resource="com/monhitul/mybatis_test/mapper/RoleMapper.xml"/>
 ```
+
 它的作用就是引入一个XML文件，用XML方式创建映射器。
 
 RoleMapper.xml文件如下：
