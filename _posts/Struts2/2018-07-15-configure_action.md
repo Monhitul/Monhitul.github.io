@@ -1,7 +1,7 @@
 ---
 layout: blog
 project: false
-istop: true
+istop: false
 background-image: http://monhitul.cn:8080/blogimages/秘密1.jpg
 category: Struts2
 title: 配置Action

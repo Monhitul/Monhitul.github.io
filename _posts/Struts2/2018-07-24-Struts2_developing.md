@@ -1,7 +1,7 @@
 ---
 layout: blog
 project: false
-istop: true
+istop: false
 background-image: http://monhitul.cn:8080/blogimages/超凡1.jpg
 category: Struts2
 title: Struts2的开发过程
