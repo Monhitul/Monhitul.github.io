@@ -1,7 +1,7 @@
 ---
 layout: blog
 project: false
-istop: true
+istop: false
 background-image: http://monhitul.cn:8080/blogimages/暮光1.jpg
 category: Linux
 title: Linux的档案权限与目录配置

@@ -1,7 +1,7 @@
 ---
 layout: blog
 project: false
-istop: true
+istop: false
 background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 category: Mybatis
 title: Mybatis | 映射器之insert，update和delete

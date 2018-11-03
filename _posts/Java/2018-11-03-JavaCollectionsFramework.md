@@ -70,4 +70,6 @@ Java提供了一套实现了Collection接口的标准集合类。其中一些是
 
 标准集合类汇总于下表：
 
-<img src="/style/images/passage/JavaCollectionsFramework/实现类概述.PNG">
+<img src="/style/images/passage/JavaCollectionsFramework/实现类概述1.PNG">
+
+<img src="/style/images/passage/JavaCollectionsFramework/实现类概述2.PNG">

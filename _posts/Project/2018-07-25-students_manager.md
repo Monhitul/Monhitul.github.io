@@ -1,7 +1,7 @@
 ---
 layout: blog
 project: true
-istop: true
+istop: false
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-8-1/24280498.jpg
 category: Project
 title: 基于Struts2和Hibernate的学生管理系统
