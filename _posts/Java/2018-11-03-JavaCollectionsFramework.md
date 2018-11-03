@@ -63,3 +63,11 @@ Java 集合框架提供了一套性能优良，使用方便的接口和类，jav
 2. Set检索效率低下，删除和插入效率高，插入和删除不会引起元素位置改变 <实现类有HashSet,TreeSet>。
 
 3. List和数组类似，可以动态增长，根据实际存储的数据的长度自动增长List的长度。查找元素效率高，插入删除效率低，因为会引起其他元素位置改变 <实现类有ArrayList,LinkedList,Vector> 。
+
+# 集合实现类（集合类）
+
+Java提供了一套实现了Collection接口的标准集合类。其中一些是具体类，这些类可以直接拿来使用，而另外一些是抽象类，提供了接口的部分实现。
+
+标准集合类汇总于下表：
+
+<img src="/style/images/passage/JavaCollectionsFramework/实现类概述.PNG">
