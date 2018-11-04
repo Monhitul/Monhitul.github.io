@@ -4,7 +4,7 @@ project: false
 istop: true
 background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 category: Java
-title: Java集合框架
+title: Java集合框架概述
 tags:
 - Java
 - 集合框架
@@ -14,7 +14,7 @@ redirect_from:
 
 参考来源：菜鸟教程
 
-# Java集合框架
+# Java集合框架概述
 
  早在 Java 2 中之前，Java 就提供了特设类。比如：Dictionary, Vector, Stack, 和 Properties 这些类用来存储和操作对象组。
 
