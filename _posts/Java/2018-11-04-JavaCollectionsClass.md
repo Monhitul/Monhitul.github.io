@@ -18,14 +18,14 @@ redirect_from:
 
 集合类存放的都是对象的引用，而非对象本身，出于表达上的便利，我们称集合中的对象就是指集合中对象的引用（reference)。
 
-集合类型主要有3种：set(集）、list(列表）和map(映射)。
+集合类型主要有3种：set(集）、list(列表）和map(映射)。其中Set代表无序、不可重复的集合；List代表有序、重复的集合；而Map则代表具有映射关系的集合。Java 5之后，增加了Queue体系集合，代表一种队列集合实现。
 
 集合接口分为：Collection和Map，list、set实现了Collection接口。
 
-<img src="/style/images/passage/JavaCollectionsClass/集合框架图.PNG">
+<img src="/style/images/passage/JavaCollectionsClass/集合框架图.jpg">
 
 常用的集合框架如下图：
-<img src="/style/images/passage/JavaCollectionsClass/常用集合框架.PNG">
+<img src="/style/images/passage/JavaCollectionsClass/常用集合框架1.PNG">
 
 # 继承结构
 
